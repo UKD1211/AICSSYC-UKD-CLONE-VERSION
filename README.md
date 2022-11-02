@@ -9,3 +9,6 @@ AICSSYC Webpage sections :-
 
 
 Link : https://ieee-jaduniv.in/AICSSYC-2022/
+
+
+https://ukd1211.github.io/AICSSYC-UKD-CLONE-VERSION/
